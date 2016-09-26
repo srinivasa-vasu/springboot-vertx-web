@@ -22,7 +22,7 @@ Fat JAR
     
 Openshift
 * Create a new project through openshift CLI or Web Console
-* Create a new app with wildfly:10.0 as the builder image with this repo as the source so that openshift does S2I to create the application docker image
+* Create a new app with wildfly:10.0 as the builder image with this repo as the source so that openshift does S2I build to create the application docker image
 
 CLI
 
