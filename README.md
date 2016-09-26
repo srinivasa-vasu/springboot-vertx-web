@@ -28,6 +28,6 @@ CLI
 
     oc new-project jee --display-name='spring-vertx'
     oc project jee
-    oc new-app https://github.com/srinivasa-vasu/springboot-vertx-web.git
+    oc new-app wildfly:10.0~https://github.com/srinivasa-vasu/springboot-vertx-web.git
     
 This triggers a S2I build, pushes to IS, launches a pod, wraps it with a service and route. To verify the output once the pod is up, click the route link followed by springboot-vertx-web-1.0/
