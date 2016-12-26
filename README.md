@@ -1,4 +1,4 @@
-# springboot-vertx-web
+# springboot-vertx-web <sup><img src="https://travis-ci.org/srinivasa-vasu/springboot-vertx-web.svg?branch=master" /></sup>
 
 This example shows how you can embed Vert.x in SpringBoot and also guide you on deploying this to openshift 3.x
 
