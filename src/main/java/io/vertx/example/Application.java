@@ -16,8 +16,6 @@ public class Application {
 
     public static void main(String[] args) {
 
-        // This is basically the same example as the web-examples static site example but it's booted using
-        // SpringBoot, not Vert.x
         SpringApplication.run(Application.class, args);
     }
 
